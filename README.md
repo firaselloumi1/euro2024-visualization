@@ -1,4 +1,4 @@
-⚽ Euro 2024 Analysis Project 🏆
+#⚽ Euro 2024 Analysis Project 🏆
 🌟 Overview
 This project leverages Python and Jupyter Notebook to perform insightful data analysis and visualization of the Euro 2024 dataset. Dive deep into the tournament's participants, matches, and statistics to uncover exciting trends and patterns. 🧐📊
 
